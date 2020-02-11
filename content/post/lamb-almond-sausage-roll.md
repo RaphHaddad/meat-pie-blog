@@ -12,7 +12,7 @@ author: "Raphael Haddad"
 **Tomato Sauce:** not free - 20 cents  
 **Price:**$4.50  
 
-[![](http://4.bp.blogspot.com/-yKDpn9MCkNE/VAGGrXoRvLI/AAAAAAAAD6Y/M2IEE92K40A/s1600/IMG_20140830_142501.jpg)](http://4.bp.blogspot.com/-yKDpn9MCkNE/VAGGrXoRvLI/AAAAAAAAD6Y/M2IEE92K40A/s1600/IMG_20140830_142501.jpg)
+!["Lamb and Almond Sausage Roll"](/images/lamb-and-almond-sausage-roll.jpg)
 
 ## Crunch Level
 

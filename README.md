@@ -2,7 +2,7 @@
 
 ## Contributing
 
-Just submit a pull request into the repository.
+Submit a pull request into the repository.
 Following the pattern of the latest post.
 
 ## Development Setup

@@ -12,7 +12,7 @@ author: "Raphael Haddad"
 **Tomato Sauce:** not free - 25 cents  
 **Price:** $5.45  
 
-[![](http://4.bp.blogspot.com/-4JZwXnQm41k/VAGDe38KQqI/AAAAAAAAD6Q/rY62mKHLe-Q/s1600/IMG_20140829_214119.jpg)](http://4.bp.blogspot.com/-4JZwXnQm41k/VAGDe38KQqI/AAAAAAAAD6Q/rY62mKHLe-Q/s1600/IMG_20140829_214119.jpg)
+!["Crunchy Pie Face"](/images/crunch-pie-pie-face.jpg)
 
 ## Crunch Level
 

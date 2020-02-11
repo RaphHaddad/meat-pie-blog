@@ -12,7 +12,7 @@ author: "Raphael Haddad"
 **Tomato Sauce:** Not free  
 **Price:** $6  
 
-[![](http://1.bp.blogspot.com/-HhoCpQIvIXo/VEG03G7d06I/AAAAAAAAFM4/PysaXlgtJNs/s1600/IMG_20141005_190732.jpg)](http://1.bp.blogspot.com/-HhoCpQIvIXo/VEG03G7d06I/AAAAAAAAFM4/PysaXlgtJNs/s1600/IMG_20141005_190732.jpg)
+!["ANZ Stadium Meat Pie"](/images/anz-meat-pie.jpg)
 
 ### Crunch Level
 

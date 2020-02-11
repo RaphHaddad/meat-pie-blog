@@ -11,7 +11,7 @@ author: "Raphael Haddad"
 **Tomato Sauce:** free - but the lady just squirted it in the bag that the sausage roll was in and not on the sausage roll itself  
 **Price:** $3.80  
 
-[![](http://4.bp.blogspot.com/-pRmMlTMKupk/VJeixQXzBPI/AAAAAAAAGgU/QxiKsDYwfYE/s1600/IMG_20141126_183722.jpg)](http://4.bp.blogspot.com/-pRmMlTMKupk/VJeixQXzBPI/AAAAAAAAGgU/QxiKsDYwfYE/s1600/IMG_20141126_183722.jpg)
+!["Valeries in the Galleries Sausage roll"](/images/valleries-sausage-roll.jpg)
 
 ## Crunch Level
 

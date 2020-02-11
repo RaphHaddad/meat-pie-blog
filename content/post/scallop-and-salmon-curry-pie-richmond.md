@@ -11,7 +11,7 @@ author: "Raphael Haddad"
 **Tomato Sauce:** Free (however, I did not put tomato sauce on this pie)  
 **Price:** Sorry, I forgot
 
-[](http://1.bp.blogspot.com/-XhGbP9j4n2c/VJejEDIlGAI/AAAAAAAAGgc/EgwQbkNpf4c/s1600/IMG_20141221_141121.jpg)[![](https://1.bp.blogspot.com/-rBIwqN5IsQk/XO9WNF6TxNI/AAAAAAAAXFY/fTmSkIz9pTsI7JIptbAFzPtk-IcRWgjswCK4BGAYYCw/s320/20190419_121859%2B%25281%2529.jpg)](http://1.bp.blogspot.com/-rBIwqN5IsQk/XO9WNF6TxNI/AAAAAAAAXFY/fTmSkIz9pTsI7JIptbAFzPtk-IcRWgjswCK4BGAYYCw/s1600/20190419_121859%2B%25281%2529.jpg)
+!["scallop pie](/images/scallop-pie.jpg)
 
 ## Crunch Level
 

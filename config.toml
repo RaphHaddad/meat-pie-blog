@@ -1,10 +1,19 @@
 languageCode = "en-us"
+baseurl = "https://meatpieblog.com/"
 title = "The Meat Pie Blog"
-theme = "hugo-theme-bootstrap4-blog-master"
+theme = "bootstrap4"
 copyright = "A [Raphael Haddad Project](https://raph.ws) | [Contribute](https://github.com/RaphHaddad/meat-pie-blog)"
 
 [permalinks]
   post = "/:year/:month/:title/"
+
+[[menu.sidebar]]
+  name = "About Us"
+  url = "about"
+
+[[menu.sidebar]]
+  name = "How to Contribute"
+  url = "contribute"
 
 [params]
   author = "Raphael Haddad"

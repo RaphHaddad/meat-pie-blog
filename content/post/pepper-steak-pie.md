@@ -12,7 +12,7 @@ author: "Raphael Haddad"
 **Tomato Sauce:** Free  
 **Price:** $4.00
 
-[![](http://1.bp.blogspot.com/-6IdYezlBHPM/VAHdTmAG5UI/AAAAAAAAD9k/4_sLEAIs5W8/s1600/IMG_20140831_001845.jpg)](http://1.bp.blogspot.com/-6IdYezlBHPM/VAHdTmAG5UI/AAAAAAAAD9k/4_sLEAIs5W8/s1600/IMG_20140831_001845.jpg)
+!["Pepper Steak Pie"](/images/pie-face-pepper.jpg)
 
 ## Crunch Level
 

@@ -12,7 +12,7 @@ author: "Raphael Haddad"
 **Tomato Sauce:** 20 cents
 **Price:** $5.50
 
-[![](http://1.bp.blogspot.com/-XhGbP9j4n2c/VJejEDIlGAI/AAAAAAAAGgc/EgwQbkNpf4c/s1600/IMG_20141221_141121.jpg)](http://1.bp.blogspot.com/-XhGbP9j4n2c/VJejEDIlGAI/AAAAAAAAGgc/EgwQbkNpf4c/s1600/IMG_20141221_141121.jpg)
+!["Beef and wine pie"](/images/beef-and-wine.jpg)
 
 ## Crunch Level
 
