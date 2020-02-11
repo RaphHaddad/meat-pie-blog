@@ -1,22 +1,11 @@
 languageCode = "en-us"
 title = "The Meat Pie Blog"
-theme = "hugo-lithium-theme-master"
+theme = "hugo-theme-bootstrap4-blog-master"
+copyright = "A [Raphael Haddad Project](https://raph.ws) | [Contribute](https://github.com/RaphHaddad/meat-pie-blog)"
 
 [permalinks]
   post = "/:year/:month/:title/"
 
 [params]
-  mainSections = ["post"]
-
-  description = ""
-
-  # path to the favicon, under "static"
-  favicon = "favicon.ico"
-
-  [params.logo]
-  url = "home.jpg"
-  width = 70
-  alt = "Logo"
-
-  [params.icon]
-  url = "favicon.ico"
+  author = "Raphael Haddad"
+  sharingicons = false
