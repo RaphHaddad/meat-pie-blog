@@ -3,6 +3,7 @@ title: 'Pepper Steak Pie'
 date: 2014-09-16T19:46:00.002+10:00
 draft: false
 tags : [meat pies, cbd, franchises]
+author: "Raphael Haddad"
 ---
 
 ## Introduction

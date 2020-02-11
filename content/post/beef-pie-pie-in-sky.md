@@ -2,6 +2,7 @@
 title: 'Beef Pie, Pie in the sky, Cowan NSW'
 date: 2019-10-02T21:15:00.000+10:00
 draft: false
+author: "Raphael Haddad"
 ---
 
 ## Introduction

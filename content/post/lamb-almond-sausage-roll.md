@@ -3,6 +3,7 @@ title: 'Lamb & Almond Sausage Roll'
 date: 2014-09-08T11:11:00.000+10:00
 draft: false
 tags : [Sausage rolls]
+author: "Raphael Haddad"
 ---
 
 ## Introduction

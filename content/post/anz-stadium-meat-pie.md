@@ -2,7 +2,8 @@
 title: 'ANZ Stadium meat pie'
 date: 2014-10-18T11:31:00.001+11:00
 draft: false
-tags : [anz stadium]
+tags: [anz stadium]
+author: "Raphael Haddad"
 ---
 
 ### Introduction

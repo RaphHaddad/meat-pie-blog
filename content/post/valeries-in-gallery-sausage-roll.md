@@ -2,6 +2,7 @@
 title: 'Valeries in the gallery sausage roll'
 date: 2014-11-26T22:38:00.000+11:00
 draft: false
+author: "Raphael Haddad"
 ---
 
 ## Introduction

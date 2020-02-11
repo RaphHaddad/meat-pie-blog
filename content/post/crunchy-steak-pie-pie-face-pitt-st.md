@@ -3,6 +3,7 @@ title: 'Crunchy Steak Pie - Pie Face, Pitt St'
 date: 2014-08-30T17:52:00.000+10:00
 draft: false
 tags : [meat pies, cbd, franchises]
+author: "Raphael Haddad"
 ---
 
 ### Introduction

@@ -3,6 +3,7 @@ title: 'Beef & wine Pie, Bourke St Bakery, Surry Hills'
 date: 2014-12-23T15:23:00.001+11:00
 draft: false
 tags : [surry hills]
+author: "Raphael Haddad"
 ---
 
 ### Introduction

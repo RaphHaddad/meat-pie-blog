@@ -3,6 +3,7 @@ title: 'Coles Brand Meat Pie'
 date: 2014-09-24T12:54:00.000+10:00
 draft: false
 tags : [supermarket, coles]
+author: "Alejandro Magnorsky"
 ---
 
 ## Introduction

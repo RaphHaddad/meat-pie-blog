@@ -2,6 +2,7 @@
 title: 'Scallop and salmon curry pie, Richmond Bakery Tasmania'
 date: 2019-05-30T14:04:00.001+10:00
 draft: false
+author: "Raphael Haddad"
 ---
 
 ## Introduction
