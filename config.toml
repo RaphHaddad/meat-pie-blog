@@ -1,3 +1,22 @@
-baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "The Meat Pie Blog"
+theme = "hugo-lithium-theme-master"
+
+[permalinks]
+  post = "/:year/:month/:title/"
+
+[params]
+  mainSections = ["post"]
+
+  description = ""
+
+  # path to the favicon, under "static"
+  favicon = "favicon.ico"
+
+  [params.logo]
+  url = "home.jpg"
+  width = 70
+  alt = "Logo"
+
+  [params.icon]
+  url = "favicon.ico"
