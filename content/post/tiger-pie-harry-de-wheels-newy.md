@@ -8,7 +8,9 @@ author: "Nicholas Smith"
 ## Introduction
 
 **Where:** Harry’s Café de Wheels, Newcastle NSW
+
 **Tomato Sauce:** Free
+
 **Price:** Can't Remember
 
 <img src="/images/tiger-pie.JPG" width="70%" alt="Tiger Pie" />
