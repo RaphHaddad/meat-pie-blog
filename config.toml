@@ -7,6 +7,9 @@ copyright = "A [Raphael Haddad Project](https://raph.ws) | [Contribute](https://
 [permalinks]
   post = "/:year/:month/:title/"
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [[menu.sidebar]]
   name = "About Us"
   url = "about"
