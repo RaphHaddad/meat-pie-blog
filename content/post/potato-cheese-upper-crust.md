@@ -1,6 +1,6 @@
 ---
 title: 'Potato and Cheese Pie, The Upper Crust, Collaroy NSW'
-date: 2020-02-17T00:00:00.000+10:00
+date: 2020-02-20T00:00:00.000+10:00
 draft: false
 author: "Raphael Haddad"
 ---
